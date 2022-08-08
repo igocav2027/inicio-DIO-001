@@ -14,3 +14,6 @@ unix:
 -Is
 -mkdir
 -rm/rf
+
+link para acessar efazer download git:
+https://git-scm.com/
